@@ -2,7 +2,7 @@
 
 #### 1、下载当前目录中的UE文件夹，放到静态资源文件夹 static 中
 
-![image](/img/Snipaste_2020-03-20_15-31-07.png)
+![image](./img/Snipaste_2020-03-20_15-31-07.png)
 
 
 
@@ -198,3 +198,4 @@ export default {
 
 
 #### 5、[DEMO](http://test.angel.yuemia.com/client/editor)
+
