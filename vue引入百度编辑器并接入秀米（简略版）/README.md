@@ -1,8 +1,10 @@
 > 参考：[百度编辑器接入秀米](https://ent.xiumi.us/ue/)
 
+## vue引入百度编辑器并接入秀米（简略版）
+
 #### 1、下载当前目录中的UE文件夹，放到静态资源文件夹 static 中
 
-![image](./img/Snipaste_2020-03-20_15-31-07.png)
+![image](/img/Snipaste_2020-03-20_15-31-07.png)
 
 
 
